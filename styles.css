@@ -1,0 +1,30 @@
+.buttons-container {
+    height: 12rem;
+    width: 12rem;
+    display: flex;
+    direction: row;
+    flex-wrap: wrap;
+}
+
+.button {
+    background-color: #fefefe;
+    margin: 0.5rem;
+    width:2rem;
+    height:2rem;
+    line-height:1.8rem;
+    text-align: center;
+}
+
+#calculator {
+    background-color: #f0f0f0;
+    height: 14rem;
+    width: 12rem;
+    margin: 2rem 2.5rem 0.5rem 2.5rem;
+    padding: 0.75rem 0rem;
+}
+
+#input {
+    padding: 0.25rem;
+    text-align: right;
+    margin: 0.3rem;
+}
